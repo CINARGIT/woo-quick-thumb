@@ -1,3 +1,4 @@
+<?php
 /**
  * Plugin Name: WooCommerce Quick Thumbnail Editor
  * Plugin URI: https://github.com/renathasanov/woo-quick-thumb
